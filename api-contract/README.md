@@ -4,7 +4,7 @@ Edit [`src/openapi.yaml`](src/openapi.yaml) and its reusable components under
 [`src/components/`](src/components/). The bundled
 [`data-registry-api.yaml`](data-registry-api.yaml) is the published OpenAPI 3.1
 contract, with
-`info.version` set to `0.9.0`. The API is introduced in RHOAI 3.6; the contract
+`info.version` set to `0.10.0`. The API is introduced in RHOAI 3.6; the contract
 version and the RHOAI release version serve different purposes.
 
 The contract includes Iceberg REST Catalog-shaped operations and RHOAI extensions
